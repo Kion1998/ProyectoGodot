@@ -1,0 +1,12 @@
+# Ignorar la carpeta de importación de Godot
+.import/
+
+# Ignorar las carpetas temporales de Godot
+.godot/
+
+# Ignorar archivos de exportación
+export_presets.cfg
+
+# Ignorar archivos del sistema operativo
+.DS_Store
+Thumbs.db
