@@ -1,0 +1,8 @@
+ea4bc82a6ad023ab7ee23ee620429895
+::res://::1726864601
+icon.svg::CompressedTexture2D::8388004593679009880::1724864330::1724864349::1::::<><>::
+player.gd::GDScript::-1::1726863963::0::1::::<>CharacterBody2D<>::
+escena_principal.tscn::PackedScene::9049947993926963674::1726864343::0::1::::<><>::res://player.gd<>uid://drrhhe662nldo::::res://icon.svg
+spr_ocean_water_animated_tiles.png::CompressedTexture2D::5497243346746493228::1726864601::1726864601::1::::<><>::
+::res://Player y enemigos/::1726864409
+Player.tscn::PackedScene::7141738328774855968::1726864409::0::1::::<><>::res://player.gd<>uid://drrhhe662nldo::::res://icon.svg
